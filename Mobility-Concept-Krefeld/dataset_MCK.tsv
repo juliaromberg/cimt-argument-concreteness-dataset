@@ -1,0 +1,377 @@
+id	document_id	sentence_nr	content	code	title/text	dataset	url
+13651	Kmeas0	1	Anbindung an die Straßenbahn durch Radinfrastruktur	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13652	Kmeas0	2	Die Anbindung der äußeren Siedlungsbereiche Fischelns an den ÖPNV ist ausbaufähig.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13653	Kmeas0	3	(Ich denke dabei gerade an das neue Wohngebiet Fischeln-Südwest, aber für die südlichsten Bereiche gilt das bereits heute.)	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13654	Kmeas0	4	Von hier ist der Weg zur Straßenbahn 041 sehr weit, die Buslinien 060/061 fahren lediglich halbstündig, sind verhaltnismäßig unkomfortabel, und brauchen relativ lange bis zum Hauptbahnhof.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13655	Kmeas0	5	IMO muss die Erreichbarkeit von einer Straßenbahn erhöht werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13656	Kmeas0	6	Aus den Konzepten aus dem anderen Dialograum schließe ich, dass ein Aus- bzw. Umbau der Linien 041 und/oder 042 geplant ist bzw. zumindest untersucht wird.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13657	Kmeas0	7	Das begrüße ich sehr.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13658	Kmeas0	8	Allerdings wird es sich dabei vrsl. um erst langfristig realisierbare Maßnahmen handeln.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13659	Kmeas0	9	Die Erreichbarkeit der aktuellen Linie 041 muss IMO aber auch kurzfristig verbessert werden, damit jetzt schon MIV-Fahrten ins Stadtzentrum vermieden werden können.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13660	Kmeas0	10	Eine relativ kurzfristig und kostengünstig umzusetzende Maßnahme ist die Einrichtung eines Bikesharingangebots (auch in ganz Krefeld, aber konkret v.a. in Fischeln; z.B. Nextbike).	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13661	Kmeas0	11	Durch die Errichtung von Stationen an den Haltestellen (v.a. Grundend, Eichhornstraße, Clemensstraße) sowie im Siedlungsgebiet, z.B. entlang der Dohmenstraße, aber auch im Wohngebiet, kann die Erreichbarkeit IMO stark verbessert werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13662	Kmeas0	12	Damit auch Menschen mit privaten Fahrrädern unkomplizierter zur StraB pendeln können, bietet sich ebenso ein Angebot von abschließbaren Fahrradboxen im Bereich der Haltestellen an.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/anbindung-die-strassenbahn-durch-radinfrastruktur
+13663	Kmeas1	1	Geschwindigkeit max 30 kmh	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/geschwindigkeit-max-30-kmh
+13664	Kmeas1	2	Dohmen- und Hafelsstraße auf 30 kmh beschränken.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/geschwindigkeit-max-30-kmh
+13665	Kmeas1	3	Der Umwelt und der Sicherheit zu liebe.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/geschwindigkeit-max-30-kmh
+13666	Kmeas10	1	Entlastung Kreuzung Rathaus in Fischeln	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-kreuzung-rathaus-fischeln
+13667	Kmeas10	2	Kimplerstr als Umgehung für Kreuzung Rathaus auf Anrather und Erkelenzer Str beschildern und Ampel Kimplerstr / Kölnerstr errichten.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-kreuzung-rathaus-fischeln
+13668	Kmeas10	3	Diese Lösung entlastet die Kreuzung am Rathaus durch Verkehr von Westen und Osten	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-kreuzung-rathaus-fischeln
+13704	Kmeas11	1	Entlastung Ortskern Fischeln	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-ortskern-fischeln
+13705	Kmeas11	2	Die Oberbruchstr in zwei Schritten ausbauen	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-ortskern-fischeln
+13706	Kmeas11	3	1. bestehende Strasse verbreitern für Aufnahme Verkehr von Raderfeld , Wilhelm Stefen Str über Hees	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-ortskern-fischeln
+13707	Kmeas11	4	2. Strasse bis Kreisel Ortseingang im Süden verlängern um  eine kleine östliche Umgehung zu schaffen	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-ortskern-fischeln
+13723	Kmeas12	1	Entlastung Kölner Str durch Nutzung Johannes Blum Str	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-koelner-str-durch-nutzung-johannes-blum-str
+13724	Kmeas12	2	Die Kölnerstr ist zu sehr mit PKW Verkehr belastet und unsicher für Fussgänger und Radfahrer.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-koelner-str-durch-nutzung-johannes-blum-str
+13725	Kmeas12	3	Im Rahmen des Zukunftskonzept sollte eine Umgehung für Teile des Verkehrs überlegt werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-koelner-str-durch-nutzung-johannes-blum-str
+13726	Kmeas12	4	d.h Umgehung der Kölnerstr über Eichhornstr. Raderfeld, Wilhelm Str und Öffung der Johannes Blum Str. für Verkehr von und zur Phl Reis Str.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/entlastung-koelner-str-durch-nutzung-johannes-blum-str
+13759	Kmeas13	1	Einbahnstrassenregelung und Öffunung Wedelstr zur Wilhelm Stefen Str	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/einbahnstrassenregelung-und-oeffunung-wedelstr-zur-wilhelm-stefen-str
+13760	Kmeas13	2	Die Wedelstr ist durchweg einseitig zugeparkt, da quasi Parkplatz für die Kölnerstr.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/einbahnstrassenregelung-und-oeffunung-wedelstr-zur-wilhelm-stefen-str
+13761	Kmeas13	3	Dementsprechend sollte über eine Einbahnstrassen Regelung und Öffnung der Wedelstr zu Wilhelm Stefen Str nachgedacht werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/einbahnstrassenregelung-und-oeffunung-wedelstr-zur-wilhelm-stefen-str
+13762	Kmeas13	4	d.h Einfahrt in die Wedelstr nur aus der Kölnerstr und Ausfahrt nur über Wilhelm Stefen Str	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/einbahnstrassenregelung-und-oeffunung-wedelstr-zur-wilhelm-stefen-str
+13835	Kmeas14	1	Verkehr durch Nutzung der Johannes Blum Str reduzieren	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-durch-nutzung-der-johannes-blum-str-reduzieren
+13836	Kmeas14	2	Der Verkehr auf der  Hafelsstr hat in den letzten Jahren stark zugenommen.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-durch-nutzung-der-johannes-blum-str-reduzieren
+13837	Kmeas14	3	Die Einbindung der Johannes Blum Str ( breite Strasse und heute kaum genutzt ) könnte eine gewisse Entlastung bringen.	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-durch-nutzung-der-johannes-blum-str-reduzieren
+13838	Kmeas14	4	Ferner sollte auch auf dem Reststück Hafelsstr ( K Bahn bis Rathaus ) Tempo 30 vorgegeben werden ( Schüler queren nach Königshof, Schule auf der Strasse und kommendes Seniorenheim)	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-durch-nutzung-der-johannes-blum-str-reduzieren
+13839	Kmeas14	5	Zusätzlich ist mindestens 1 Zebrastreifen Höhe Heiligenweg notwendig	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-durch-nutzung-der-johannes-blum-str-reduzieren
+13878	Kmeas15	1	Kreuzung am Rathaus Fischeln entlasten	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/kreuzung-am-rathaus-fischeln-entlasten-0
+13879	Kmeas15	2	inzwischen zuviel reiner Durchgangsverkehr in alle Richtungen.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/kreuzung-am-rathaus-fischeln-entlasten-0
+13880	Kmeas15	3	Dieser sollte durch Umgehungsstrassen um den Ortkern geführt werden oder mindestens auf andere Strassen wie z.B. Marienstr und Johannes Blum Str verteilt werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/kreuzung-am-rathaus-fischeln-entlasten-0
+13881	Kmeas15	4	Schilder sollten auf die Möglichkeit die Kreuzung am Rathaus zu umfahren hinweisen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/kreuzung-am-rathaus-fischeln-entlasten-0
+13937	Kmeas16	1	Zebrastreifen und Schrittfahren einrichten	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-und-schrittfahren-einrichten-0
+13938	Kmeas16	2	Für Fussgänger ist es in diesem Teil nicht sicher die Strasse zu überqueren.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-und-schrittfahren-einrichten-0
+13939	Kmeas16	3	Bei Stau muss man sich durch die Autos quetschen und wenn mal weniger Verkehr ist, wird zu schnell gefahren.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-und-schrittfahren-einrichten-0
+13940	Kmeas16	4	Wegen der Nähe der beiden Kurven ist der Verkehr schlecht einzusehen und muss u.U. auf den Gehweg zurückspringen.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-und-schrittfahren-einrichten-0
+13941	Kmeas16	5	Für Kinderwagen und Rollatoren kaum möglich	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-und-schrittfahren-einrichten-0
+14051	Kmeas18	1	sicher Zebrastreifen über Anrather und Verkehrsinsel Rosenstr	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/sicher-zebrastreifen-ueber-anrather-und-verkehrsinsel-rosenstr
+14052	Kmeas18	2	Für Fussgänger ist es sehr unsicher in diesem Bereich auf Rosen und Anrather Str zu überqueren.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/sicher-zebrastreifen-ueber-anrather-und-verkehrsinsel-rosenstr
+14053	Kmeas18	3	Zebrastreifen über beide Strassen sind dringend notwendig	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/sicher-zebrastreifen-ueber-anrather-und-verkehrsinsel-rosenstr
+14109	Kmeas19	1	zum Ende der neuen online Befragung	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zum-ende-der-neuen-online-befragung
+14110	Kmeas19	2	In vielen Beiträgen wurde erneut auf die bestehenden und weiter wachsenden Belastungen des Fischelner Ortskerns hingewiesen und auch Massnahmen aufgezeigt.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zum-ende-der-neuen-online-befragung
+14111	Kmeas19	3	In der Vergangenheit gab es schon Planungen und Konzepte, die jedoch nie umgesetzt wurden.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zum-ende-der-neuen-online-befragung
+14112	Kmeas19	4	Die betroffenen Bürger und Nutzer des Ortskerns haben nun erneut eine hohe Erwartungshaltung an Politik, Rat und Verwaltung, dass im Rahmen des Mobilitätskonzepts auch Ideen und Lösungen umgesetzt werden.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zum-ende-der-neuen-online-befragung
+14113	Kmeas19	5	Die verschiedenen Aktionen : Mobilitätskonzept, Entwicklungskonzept Fischeln, Fahrradoffensive sollten nicht für den kommenden Wahlkampf missbraucht werden, sondern es sollte auch etwas nachhaltiges für die Bürger herauskommen.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zum-ende-der-neuen-online-befragung
+14114	Kmeas2	1	Fahrradspur, Zebrastreifen und max Tempo 30 in Fischeln	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/fahrradspur-zebrastreifen-und-max-tempo-30-fischeln
+14115	Kmeas2	2	... gute, günstige und schnelle Maßnahmen für Fischeln.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/fahrradspur-zebrastreifen-und-max-tempo-30-fischeln
+14116	Kmeas20	1	die neuen Baugebiete Plankerheide und zuerst realisieren	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/die-neuen-baugebiete-plankerheide-und-zuerst-realisieren
+14117	Kmeas20	2	Die  Baugebiete Plankerheide und Fischeln Ost liegen entlang der Bahnverbindung nach Düsseldorf.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/die-neuen-baugebiete-plankerheide-und-zuerst-realisieren
+14118	Kmeas20	3	Krefeld ist über den ÖPNV Knotenpunkt Grundend angebunden.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/die-neuen-baugebiete-plankerheide-und-zuerst-realisieren
+14119	Kmeas20	4	In Süd/West soll wieder erstmal gebaut werden.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/die-neuen-baugebiete-plankerheide-und-zuerst-realisieren
+14120	Kmeas20	5	Ob und wann eine wirkliche Umgehungstraße gebaut wird und eine ÖPNV Anbindung erfolgt, ist unklar.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/die-neuen-baugebiete-plankerheide-und-zuerst-realisieren
+14121	Kmeas20	6	Die angedachte neue Straße geht nur bis zur Anrather Straße und entlastet den Ortskern nicht.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/die-neuen-baugebiete-plankerheide-und-zuerst-realisieren
+14122	Kmeas20	7	"Für Süd/ West gilt die alte bekannte Vorgehensweise  "" erstmal bauen und dann schauen wir ( Politik, Stadt und Verwaltung ) mal """	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/die-neuen-baugebiete-plankerheide-und-zuerst-realisieren
+14123	Kmeas21	1	Neue Grünverbindung	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/neue-gruenverbindung
+14124	Kmeas21	2	Wenn die Feuerwehr umzieht, freigewordene Fläche als Grünverbindung nutzen	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/neue-gruenverbindung
+14125	Kmeas22	1	Grün	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gruen
+14126	Kmeas22	2	Baumpflanzungen entlang der Kölner Straße mit klimaresistenteren Bäumen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gruen
+14127	Kmeas23	1	Gehwege	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gehwege
+14128	Kmeas23	2	Freihalten der (schmalen) Gehwege von Werbeaufstellern.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gehwege
+14129	Kmeas23	3	Eine Mindestbreite von 1,80, besser 2,00 Metern darf nicht unterschritten werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gehwege
+14130	Kmeas23	4	Im Zweifelsfall auch auf Parkplätze verzichten.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gehwege
+14131	Kmeas24	1	Gewerbe	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gewerbe
+14132	Kmeas24	2	Kein neuer Logistikstandort entlang der Autobahn.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gewerbe
+14133	Kmeas24	3	Wenn schon Arbeitsplätze entstehen sollen, dann Forschung, Entwicklung, Start Ups.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gewerbe
+14134	Kmeas24	4	Hier aber auch die ÖV-Erschließung mitdenken.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gewerbe
+14135	Kmeas24	5	(kann man leider nicht markieren)	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gewerbe
+14136	Kmeas25	1	Umgehung	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/umgehung-0
+14137	Kmeas25	2	Keine Umgehung, da in 25 Jahren nur noch autonome Fahrzeuge fahren.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/umgehung-0
+14138	Kmeas26	1	Gründächer	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gruendaecher
+14139	Kmeas26	2	Gründächer und Photovoltaikstandorte aktiv fördern.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/gruendaecher
+14140	Kmeas27	1	Nachverdichtungen	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/nachverdichtungen
+14141	Kmeas27	2	Nachverdichtungen mit Augenmaß um das Mikroklima zu erhalten (keine Hitzeinseln wie die Kölner Straße).	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/nachverdichtungen
+14142	Kmeas28	1	Mobilität	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/mobilitaet
+14143	Kmeas28	2	Bauvorhaben, die verpflichtend alternative Mobilitätskonzepte anbieten, bevorzugen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/mobilitaet
+14144	Kmeas29	1	Plankerheide	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/plankerheide
+14145	Kmeas29	2	Plankerheide vor Fischeln Süd-West.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/plankerheide
+14146	Kmeas3	1	Massnahmen für die Kölnerstr in Fischeln	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14147	Kmeas3	2	- Durchgangsverkehr um den Ort leiten	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14148	Kmeas3	3	- Strassenbelag durch Flüsterasphalt austauschen, insbesondere unebener Belag im  Bereich s.g. Dorfplatz (?)	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14149	Kmeas3	4	- grössere Grünflächen , breitere Gehwege und Einrichtung Fahrradspuren	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14150	Kmeas3	5	- barrierefreie Strassenbahnhaltestellen	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14151	Kmeas3	6	- Parken auf der Strasse reduzieren	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14152	Kmeas3	7	- Aufbau von Parkplätzen z.B. Parkplatz Volksbank , Penny , Bereich hinter Ärztehaus / Apotheke	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14153	Kmeas3	8	- Anwohner und Mitarbeiter Parkplätze vergeben	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14154	Kmeas3	9	- ÖPNV attraktiver machen	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14155	Kmeas3	10	- Einsatz von Bürgerbussen testen d.h Zielverkehr mit PKW zu Geschäften, Ärzten und Dienstleistern reduzieren	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14156	Kmeas3	11	- Fussgängerampel Bereich Sparkasse	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14157	Kmeas3	12	- ausgewiesene Parkbuchten für Kurierdienste	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14158	Kmeas3	13	-	non-arg	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/massnahmen-fuer-die-koelnerstr-fischeln
+14159	Kmeas30	1	Neue Wohngebiete	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/neue-wohngebiete
+14160	Kmeas30	2	Neubauviertel nur, wenn diese „autofrei“ sind und direkte Fuß- und Radverbindungen zum Ortskern haben (Stellplätze können außerhalb in Sammelgaragen sein).	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/neue-wohngebiete
+14183	Kmeas4	1	Kreuzung am Rathaus und Hafelstr Richtung Oppum entlasten	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/kreuzung-am-rathaus-und-hafelstr-richtung-oppum-entlasten
+14184	Kmeas4	2	mit Schildern auf der Kölnerstr auf die Möglichkeit hinweisen über Wilhelm Stefen Str , Hees und Oberbruchstr die überlastete Kreuzung Richtung Osten zu umfahren	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/kreuzung-am-rathaus-und-hafelstr-richtung-oppum-entlasten
+14235	Kmeas5	1	Verkehr auf der Rosenstrasse reduzieren	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-auf-der-rosenstrasse-reduzieren
+14236	Kmeas5	2	Verkehr von Willicher und Dohmenstr über Hannixweg / An de Welt auf Erkelenzer Str um leiten	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-auf-der-rosenstrasse-reduzieren
+14237	Kmeas5	3	Rosenstr zur Einbahnstrasse Einfahrt von der Anratherstr machen	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/verkehr-auf-der-rosenstrasse-reduzieren
+14282	Kmeas6	1	bessere Markierung Fahrradspur	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/bessere-markierung-fahrradspur
+14283	Kmeas6	2	Die Hafelstr wird in diesem Bereich sehr stark befahren und es gibt meist Rückstau bis in die Anratherstr.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/bessere-markierung-fahrradspur
+14284	Kmeas6	3	Selbst der schmale Fahrradstreifen wird von Autofahrern nicht respektiert und es muss oft auf den Bürgersteig ausgewichen werden.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/bessere-markierung-fahrradspur
+14285	Kmeas6	4	Eine bessere und auffallende Markierung ist notwendig	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/bessere-markierung-fahrradspur
+14337	Kmeas7	1	Zebrastreifen notwendig	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-notwendig-2
+14338	Kmeas7	2	Der Ampelübergang bei Rewe ist wg der Löcher im Aspalt und an den Schienen nicht sicher.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-notwendig-2
+14339	Kmeas7	3	Der Umweg zur Ampel am Ärztehaus / Volksbank ist für Ältere zu weit.	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-notwendig-2
+14340	Kmeas7	4	Es sollte dazwischen noch eine Ampel oder Zebrastreifen z.B bei der Sparkasse gemacht werden	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-notwendig-2
+14386	Kmeas8	1	Zebrastreifen notwendig	mpos	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-notwendig-1
+14387	Kmeas8	2	Ein Zebrastreifen auf der Rosenstr Bereich Vaassenweg / Clemensstr ist dringend notwendig.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-notwendig-1
+14388	Kmeas8	3	Wegen des vielen Verkehrs kommt man insbesondere morgens und abends kaum mehr sicher über die Strasse in den Ort und zur Kirche	premise	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zebrastreifen-notwendig-1
+14451	Kmeas9	1	zur Entlastung Neuburgshof und mit Hinblick auf Baugebiet Süd/West	non-arg	title	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zur-entlastung-neuburgshof-und-mit-hinblick-auf-baugebiet-suedwest
+14452	Kmeas9	2	Str Am Germanshof verlängern und an Dohmenstr / Kütterweg anschliesen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zur-entlastung-neuburgshof-und-mit-hinblick-auf-baugebiet-suedwest
+14453	Kmeas9	3	d.h. Entlastung Wohngebiete und Neuburgshof , sowie in Vorbereitung Baugebiet Süd/West	mpos	text	MC_K	https://www.krefeld-bewegen.de/dialoge/fischeln/zur-entlastung-neuburgshof-und-mit-hinblick-auf-baugebiet-suedwest
+14508	Kmob0	1	Mobilitätsbedarf älterer Menschen	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/821#comment-821
+14509	Kmob0	2	Der Mobilitätsbedarf älterer Menschen wird nicht hinreichend berücksichtigt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/821#comment-821
+14510	Kmob0	3	Wer nicht mehr gut laufen kann, ist oft aufs Auto angewiesen - zum Einkaufen, für Arzt- und Therapiebesuche usw.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/821#comment-821
+14511	Kmob0	4	Radverkehr hilft da nicht, der ÖPNV je nach Grad der Behinderung auch nur bedingt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/821#comment-821
+14512	Kmob0	5	Sinnvoll wären Gutscheine für (ermäßigte) Taxifahrten, bspw. für Senioren, die ihr Auto abgeben (und weder eine ÖPNV-Haltestelle noch ein Lebensmittelgeschäft vor der Haustür haben).	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/821#comment-821
+14513	Kmob1	1	Neubaugebiete und Gewerbe in Fischeln	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14514	Kmob1	2	Der Süden Krefelds wird nach Willen der Politik  sehr große neue Wohngebiete  und weitere Gewerbeansiedlungen ( Fichtenhain und Interkommunales Gewerbegebiet ) bekommen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14515	Kmob1	3	Was fehlt ist die passende Infrastuktur für LKW, PKW, ÖPNV, Fahrrad und Fusswege.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14516	Kmob1	4	Diese sollte vor Baubeginn und weiteren Gewerbeansiedlungen realisiert werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14517	Kmob1	5	Die Vergangenheit hat z.B. in Fischeln gezeigt, wenn erst gebaut wird, passiert später nichts mehr.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14518	Kmob1	6	In Fischeln tragen die Bewohner und Nutzer des Ortskerns nun seit vielen Jahren die Belastungen durch den Verkehr allein.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14519	Kmob1	7	Der Süden Krefelds ist u.a. für viele Düsseldorfer interessant.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14520	Kmob1	8	Entsprechend sollte das Baugebiet Plankerheide und Fischeln Ost als erste gebaut werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14521	Kmob1	9	Es gibt hier durch die K Bahn bereits eine ÖPNV Anbindungen mit 2 Haltestellen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/829#comment-829
+14522	Kmob10	1	Baustellenmanagment	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/812#comment-812
+14523	Kmob10	2	Aufbruchgenehmigungen nur zeitlich (kurze Zeiträume) begrenzen, auf Bauaktivität prüfen und die Verkehrssicherung prüfen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/812#comment-812
+14524	Kmob10	3	Beispiel Glockenspitz höhe Sprödental: Stadteinwärts wird eine Spurverengung angezeigt die nicht erforderlich ist.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/812#comment-812
+14525	Kmob10	4	Kaum Bauaktivität ist dort zu sehen, aber durch die Baustelle kommt es an der Kreuzung zu Behinderungen des Abbiegeverkehrs, Radwegs und Fußwegs.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/812#comment-812
+14526	Kmob10	5	Die Baustelle besteht schon seit einiger Zeit und könnte sicher schon lange erledigt sein.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/812#comment-812
+14527	Kmob10	6	Die Folge solcher Baustellen sind nicht befolgen von Verkehrsschildern und Veränderungen an der Baustelle werden ggf. spät von Verkehrsteilnehmern erkannt und erzeugen kritische Situationen und somit zusätzliche Behinderungen	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/812#comment-812
+14606	Kmob11	1	Verbesserung Straßenzustand	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/814#comment-814
+14607	Kmob11	2	Regelmäßig befahren Entsorgungsfahrzeuge und Straßenreinigung des Krefelder Straßennetz.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/814#comment-814
+14608	Kmob11	3	Dabei könnten Fahrzeuge eingesetzt werden die den Straßenzustand mittels Kamera/GPS Dokumentation erfassen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/814#comment-814
+14609	Kmob11	4	Langfristig kann der Straßenzustand Überwacht und verbessert werden und es kommt zu weniger Baustellen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/814#comment-814
+14667	Kmob12	1	Shared Space	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/818#comment-818
+14668	Kmob12	2	Shared Space-Konzepte sind illusorisch und potenziell gefährlich - gerade an Orten, die, wie der Hauptbahnhof, von Hektik geprägt sind - Autofahrer wollen schnell jemanden absetzen, Fußgänger rennen von der Bahnhaltestelle in Richtung Zug ... das kann nur Unfälle provozieren.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/818#comment-818
+14669	Kmob12	3	Gute Zufahrtsmöglichkeiten mit Haltebuchten zum Bringen und Abholen und Fußgängerübewege mit Ampel sind sinnvoller.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/818#comment-818
+14670	Kmob12	4	Außerderdem braucht Krefeld dringend eine funktionierende Park-and-Ride-Lösung am Bahnhof (... auch in Duisburg gibt es am Bahnhof ein Kino-Parkhaus - dort kann man mit Bahncard zum reduzierten Preis parken - ohne zusätzlichen Zeitaufwand, einfach Bahncard in den Automaten stecken).	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/818#comment-818
+14726	Kmob13	1	Feldzug das Auto sofort einstellen - kostenloser ÖPNV sofort!	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/824#comment-824
+14727	Kmob13	2	Aus meiner Sicht muss der Feldzug gegen das Auto und die Stigmatisierung der Autofahrer sofort beendet werden und statt dessen muss der Individualverkehr (z.B. mit dem Auto) sinnvoll intergriert werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/824#comment-824
+14728	Kmob13	3	Ein für Nutzer kostenloser ÖPNV innerhalb Krefelds wird das Thema wesentlich entspannen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/824#comment-824
+14729	Kmob13	4	Man muss es eben nur wollen und die Umwelt wird ganz nebenbei auch geschont.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/824#comment-824
+14730	Kmob13	5	Macht es einfach mal und jetzt!	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/824#comment-824
+14731	Kmob13	6	Parkdurckerhöhung und Platzreduzierung von Verkehrsfläche für das Auto werde ich nicht hinnehmen und zivilen Ungegohrsam entgegensetzten.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/824#comment-824
+14851	Kmob14	1	Sperrung der Straße vor dem Hauptbahnhof	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/841#comment-841
+14852	Kmob14	2	"Gäbe es eine Möglichkeit die Straße ""am Hauptbahnhof"" zwischen Ostwall/Hansastraße und Kölner Straße für den MIV zu sperren."	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/841#comment-841
+14853	Kmob14	3	Dadurch wäre die Ampelanlage an dieser Stelle nahezu unnötig und die Fußgänger, welchen generell Vorrang gegeben werden sollte, hätten es wesentlich einfacher einen Bus, Straßenbahn selbst bei wenig Zeit zu erreichen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/841#comment-841
+14908	Kmob15	1	Optimierung diverser Ampeln	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14909	Kmob15	2	Es gibt einige Ampeln in Krefeld die im Zuge einer grünen Welle genau entgegengesetzt schalten.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14910	Kmob15	3	"Die meisten dieser Ampeln fallen in die Kategorie ""Bedarfsampeln""."	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14911	Kmob15	4	Das Prinzip einer Bedarfsampel - jemand drückt einen Knopf und es wird grün - ist an sich gut.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14912	Kmob15	5	Sie ist nur nicht mehr gut, wenn sie keine Rücksicht auf eine grüne Welle nimmt.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14913	Kmob15	6	Mir bekannt sind folgende Ampeln:	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14914	Kmob15	7	- Fußgängerampel Deutscher Ring/Garnstraße Schaltet bei Bedarf direkt um.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14915	Kmob15	8	Je nach Timing so ungünstig, dass die Ampel Tannenstraße auf rot springt, wenn man an der Fußgängerampel gerade grün bekommt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14916	Kmob15	9	Zuvor hat die Ampel natürlich mitten in der grünen Welle alle ausgebremst.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14917	Kmob15	10	- Bedarfsampeln - Gladbacher Straße - ebenfalls keine Rücksicht auf grüne Welle.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14918	Kmob15	11	Auch die Tram wird ausgebremst.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14919	Kmob15	12	- Ampel Preußenring/Prinz-Ferdinand-Str.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14920	Kmob15	13	- Erhält man auf dem Ring Richtung Norden an der St.-Anton-Str. grün kommen vielleicht noch drei/vier Autos an der Prinz-Ferdinand-Straße rüber ehe die Ampel auch mitten in der grünen Welle auf rot umspringt (nur wenn ein Fußgänger/Radfahrer oder Auto wartet).	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14921	Kmob15	14	Sobald man auf dem Ring wieder grün bekommt, hat man am Nordwall erneut rot.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14922	Kmob15	15	Ich habe dies schon per Mail an die Stadtverwaltung gerichtet, aber es scheint niemanden zu interessieren.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14923	Kmob15	16	Eine Rückmeldung gab es bis jetzt nicht.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14924	Kmob15	17	Es muss ja möglich sein, dass die Ampel den Bedarf einer Überquerung erkennt, aber dann erst synchron mit den anderen Ampeln umspringt.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/853#comment-853
+14928	Kmob16	1	Anpassung Oberschlesienstraße	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14929	Kmob16	2	Generell würde ich die Oberschlesienstraße so umbauen, dass die Straßenbahngleise in Fahrbahnmitte liegen, wie es auf der Gladbacher Straße der Fall ist.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14930	Kmob16	3	Der Platz bis zur Grundstücksgrenze des Stahlwerks ist jedenfalls ausreichend.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14931	Kmob16	4	Unabhängig davon ist aber definitiv eine Anpassung der Ampeln erforderlich.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14932	Kmob16	5	Aus der Ampel an Tor 3 sollte eine Bedarfsampel werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14933	Kmob16	6	Die schaltet oft unnötigerweise quer und bremst den fließenden Verkehr für nichts aus - wirklich für nichts.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14934	Kmob16	7	Zudem muss die Ampel an der Vulkanstraße angepasst werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14935	Kmob16	8	Das links Abbiegen aus Richtung Süden zum Werk ist direkt an der Kreuzung bereits seit einigen Jahren nicht mehr erlaubt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14936	Kmob16	9	Das heißt, für die Straßenbahn müssen eigentlich nicht alle Ampeln auf rot springen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14937	Kmob16	10	Zur Kreuzung mit der Gladbacher Straße: (Bei einem Umbau der Oberschlesienstraße wie oben beschrieben, ließen sich die Ampelphasen einfacher gestalten.)	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14938	Kmob16	11	Ich weiß nicht, welche Rolle das Signal für die ehemalige Straßenbahn zur Tackheide noch in der Schaltung hat.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14939	Kmob16	12	Aber wenn sie stört bzw. Zeit kostet, sollte dies überarbeitet werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14940	Kmob16	13	Zudem sollte man das Wenden Richtung Innenstadt offiziell erlauben.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14941	Kmob16	14	Jeder der von Burger King kommt macht es eh und fährt nicht bis zur Schleife am Marathon-Sportplatz.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/855#comment-855
+14942	Kmob17	1	Ampeln (Neue) Ritterstraße - grüne Welle / Rückstaus	mpos+premise	title	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14943	Kmob17	2	Die Ampel Ritter-/Siemenstraße verursacht Nachmittags ellenlange Rückstaus bis zur Eisenbahnunterführung in der dann auch die 76 feststeckt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14944	Kmob17	3	Ggf. Ausbau mit dritter Spur Richtung Süden oder Umverteilung der Richtungsspuren testen: Linksabbieger/Geradeausfahrer und Rechtsabbieger.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14945	Kmob17	4	Da vielleicht auch den Fußgängern und Radfahrern rot geben, damit die Rechtsabbieger besser abfließen können.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14946	Kmob17	5	Neue Ritterstraße braucht zum Dießemer Bruch eine dritte Spur.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14947	Kmob17	6	So können die Spuren in  Linksabbieger, Linksabbieger/Geradeausfahrer und Rechtsabbieger unterteilt werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14948	Kmob17	7	So kommen bei der relativ kurzen Ampelphase für Linksabbieger/Geradeausfahrer auch mehr Autos durch.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14949	Kmob17	8	Die Ampel an der Oberdießemer Straße schaltet zu früh auf rot, wenn man aus Richtung Kölner Straße kommt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14950	Kmob17	9	Keine grüne Welle.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/856#comment-856
+14951	Kmob18	1	Shared Space auf den Wällen	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/866#comment-866
+14952	Kmob18	2	Einheitliche Gestaltung der Wälle, so dass sie als markante Punkte Krefelds erkannt werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/866#comment-866
+14953	Kmob18	3	Hierzu müssen sie attraktiver für Fußgänger und Radfahrer werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/866#comment-866
+14954	Kmob19	1	Untergath zurück zu Tempo 50	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14955	Kmob19	2	Kürzlich wurde auf der Untergath Tempo 70 mit der Begründung, dass dann der Schadstoffausstoß zurückgehe (!) wiedereingeführt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14956	Kmob19	3	Aus zahlreichen anderen Städten hört man gegenteiliges - so soll etwa in Essen auf der Bundesstraße 224 zur Einhaltung von Schadstoffgrenzen streckenweise Tempo 30 eingeführt werden.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14957	Kmob19	4	In Krefeld scheint man hier hinter dem Mond zu leben.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14958	Kmob19	5	Seit Einführung von Tempo 70 auf der Untergath hat sich die Stausituation nicht verändert, die Verkehrssicherheit aber dramatisch verschlechtert.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14959	Kmob19	6	Viele Pkw-Fahrer meinen noch schnell Stoff geben zu müssen, um dann doch an der nächsten Ampel wieder im Stau zu landen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14960	Kmob19	7	In der Abbiegespur wird einem Angst und Bange, wenn schwere LKW knapp an einem vorbeirasen, hoffentlich.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14961	Kmob19	8	Kürzlich knallte es schon wieder in Kreuzungsbereichen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14962	Kmob19	9	Die Lärmbelastung ist jetzt erheblich gestiegen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14963	Kmob19	10	Ja, beidseits der Untergath befinden sich auch Siedlungen, deren Menschen auch ein Schutz vor dem Lärm zusteht.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14964	Kmob19	11	Deshalb messen, überwachen und zurück zu Tempo 50!	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/887#comment-887
+14965	Kmob2	1	Anbindung an Fernzüge oder Fernbusse	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/861#comment-861
+14966	Kmob2	2	Eine Großstadt, die keine stündliche Anbindung an das Fernverbindungsschiennetz hat!	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/861#comment-861
+14967	Kmob2	3	Zumindest Fernbusse am Südausgang des Hbf sollte es geben.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/861#comment-861
+14968	Kmob20	1	Querungshilfe Schiene (Über- oder Unterführung) im Forstwald	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14969	Kmob20	2	Damit der Verkehr besser fließen kann und zur Sicherheit von Radfahrern und Fußgängern, habe ich folgende Vorschläge:	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14970	Kmob20	3	- Sperrung der Oberbenrader Str. zur Hückelsmaystr.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14971	Kmob20	4	Begründung:	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14972	Kmob20	5	Jeden Morgen staut sich der Verkehr auf der Hückelsmaytr., weil die Autofahrer dort, den Autofahrern, die von links von der Oberbenrader Str. kommen, den Vorrang lassen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14973	Kmob20	6	Um schneller voran zu kommen, wechseln sogar Autofahrer von der Hückelsmaystr. auf die Oberbenrader Str., weil man dort schneller vorankommt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14974	Kmob20	7	- Nach dieser Sperrung kann man auf dem letzten Stück der Oberbenrader Str. einen Streifen für Radfahrer errichten, damit diese zum Fahrradweg vor dem Bäskeshof auf die Hückelsmaystr. kommen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14975	Kmob20	8	Zur Zeit sollen die Radfahrer vor dem Westernstall von der Oberbenrader Str. auf die Hückelsmaytr. wechseln.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14976	Kmob20	9	Hier stehen den Radfahrern keine Querungshilfen zur Verfügung.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14977	Kmob20	10	Ein Überqueren der Hückelsmaytr. zu Stoßzeiten ist kaum möglich.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14978	Kmob20	11	- Der Bahnübergang Hückelsmaystr. sollte erweitert werden, damit Radfahrer, die den Bahnradweg fahren und nach der Bahn die Hückelsmaystr. überqueren müssen, diese bereits vor der Bahn überqueren können, um dann direkt auf der richtigen Seite zu sein.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14979	Kmob20	12	Zur Zeit müssen die Radfahrer und Fußgänger, wenn die Schranken unten sind, erstmal eine Zeitlang vor den Schranken stehen und wenn die Schranken dann offen sind, stehen sie nochmal eine Zeitlang, um die Straße überqueren zu können, da sie erstmal den aufgestauten Autoverkehr durchlassen müssen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14980	Kmob20	13	Viele Fußgänger und Radfahrer überqueren, wenn die Schranken geschlossen sind, schon vorher die Hückelsmaystr. und gehen dann am Straßenrand über die Bahn bis zum Eingang des Radweges.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14981	Kmob20	14	- Die Fuß- und Radwege sollten nicht nur saniert werden, sondern sollten auch regelmäßig gepflegt werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14982	Kmob20	15	Viele Wege haben schon seit Jahren keine Kehrmaschine mehr gesehen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14983	Kmob20	16	Der Schotter, der von den Seitenstreifen auf die Wege gekommen ist, ist eine Gefahr für Fußgänger und Radfahrer.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14984	Kmob20	17	Eine Reinigung aller Wege sollte mindestens 1 bis 2 mal im Jahr erfolgen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14985	Kmob20	18	- Der Zugverkehr sowie der Autoverkehr nehmen immer mehr zu.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14986	Kmob20	19	Die Züge werden immer länger.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14987	Kmob20	20	Die Wartezeiten und somit der Stau an den Bahnschranken werden auch immer länger.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14988	Kmob20	21	Deshalb empfehle ich für den Forstwald eine Querungshilfe bei der Bahn zu bauen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14989	Kmob20	22	Wie schon seit fast 80 Jahren geplant (Westtangente).	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14990	Kmob20	23	Die Anlagen sind überaltet.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14991	Kmob20	24	Bevor der Zug aus Richtung Viersen Forstwald befährt, sind schon alle Bahnübergänge zu.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14992	Kmob20	25	Manchmal sind die Schranken auch über einen längeren Zeitraum geschlossen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14993	Kmob20	26	Viele Autofahrer drehen dann um und fahren, wenn alle Bahnübergänge zu sind, den Umweg über die Brücke an der Düsseldorfer Str..	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14994	Kmob20	27	Für Fußgänger und Radfahrer ist dieser Umweg zu weit.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14995	Kmob20	28	Deshalb laufen dann auch viele um die Schranken herum.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14996	Kmob20	29	Ich habe schon gesehen, dass Passanten Schuldkindern von der Forstwaldschule beim Queren der Bahn bei geschlossenen Schranken geholfen haben.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14997	Kmob20	30	Es wäre sinnvoll die Pläne der geplanten Westtangente B9n zumindest teilweise umzusetzen, zumindest von der Gladbacher Str. bis hinter die Bahn.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14998	Kmob20	31	Von dort könnte man dann eine Verbindung wieder zur Hückelsmaystr. in Höhe der Tankstelle schaffen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+14999	Kmob20	32	Hierfür gebe es sogar Fördermittel vom Bund, wenn man dann die Bahnübergänge Hückelsmaystr. und Oberbenrader Str. schließt.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+15000	Kmob20	33	Damit Fußgänger und Radfahrer keinen Umweg nehmen müssen, könnte man an der Hückelsmaystr. eine Unterführung für Fußgänger und Radfahrer bauen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+15001	Kmob20	34	Die käme dann auch der geplanten Krefelder Promenade zu nutzen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+15002	Kmob20	35	Es wäre wünschenswert, wenn die Stadt Krefeld einmal nicht nur plant, sondern auch einmal die Pläne umsetzt.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/891#comment-891
+15003	Kmob21	1	Siemenstr/VoltaStr.	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15004	Kmob21	2	Die Ampelschaltungen an der Hansastr und der Ritterstr führen oft dazu, das die Siemensstraße dazwischen dicht ist.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15005	Kmob21	3	Die U76 kommt dann oft als Sahnehäubchen oben drauf oder die Eisenbahner stehen als Linksabbieger im Weg weil sie nicht durch den Rückstau kommen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15006	Kmob21	4	Besonders schlimm ist das am Nachmittag.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15007	Kmob21	5	Vielleicht kann man die Einbahnstraße Voltastraße drehen und die Linksabbieger mit einer Ampel zur Ritterstraße fahren lassen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15008	Kmob21	6	Die frei werdende Linksabbiegespur auf der Siemenstraße könnte man für geradeaus nutzen und dafür einen Rechtsabbiegespur schaffen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15009	Kmob21	7	Stadtauswärts könnte das eine Entlastung bringen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15010	Kmob21	8	Der jetzige Verkehr, der über die Voltastraße Richtung Kreuzung Hansastraße fährt, kann die Dießemer Straße nutzen und würde die Kreuzung Hansastraße ebenfalls entlasten.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15011	Kmob21	9	Eine Ampel Voltastraße/Ritterstraße könnte es übrigens der U76 übrigens auch leichter machen, vor allem wenn man über Taktverdichtung nachdenken will.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/898#comment-898
+15012	Kmob22	1	Park & Ride	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/902#comment-902
+15013	Kmob22	2	Was in Krefeld fehlt sind große kostenlose Park & Ride Möglichkeiten für PKW außerhalb der Stadtmitte mit sehr günstige und regelmäßige ÖPNV Verbindungen vom Parkplatz in die Stadtmitte und zurück.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/902#comment-902
+15014	Kmob23	1	Sperrung einzelner Straßen	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/907#comment-907
+15015	Kmob23	2	Wenn ich so durch Krefeld City gehe, fällt auf dass einige Straßen für den Autoverkehr gesperrt sein könnten um die City Fußgänger freundlicher zu gestalten.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/907#comment-907
+15016	Kmob23	3	Wie zum Beispiel Carl Wilhelm Straße Richtung Rathaus/ Kloster Straße warum muss die Straße geöffnet bleiben.?	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/907#comment-907
+15017	Kmob23	4	Stephanstrasse Höhe Café Mari, warum muss hier der Autofahrer durch?, genauso am Platz der Alten Kirche, dort könnten bewegliche Poller für die Anwohner/ Gastronomie Abhilfe schaffen und das Fahren/wilde Parken verhindern.	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/comment/907#comment-907
+15018	Kmob23	5	Königstraße „flaniermeile“ und genügend Parkmöglichkeiten ringsherum, also nicht zwingend notwendig für den Autoverkehr usw.	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/comment/907#comment-907
+15019	Kmob24	1	(Car) Sharing Angebote ausweiten und vereinheitlichen	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/916#comment-916
+15020	Kmob24	2	Die Anzahl und die räumliche Verfügbarkeit von Sharing Angeboten sollte deutlich erhöht werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/916#comment-916
+15021	Kmob24	3	Dies betrifft die verschiedensten Fortbewegungsmittel, wie Lastenräder, E-Roller und natürlich auch Pkw.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/916#comment-916
+15022	Kmob24	4	Es ist bedauerlich, dass eine so sinnvolle Sache wie die von den SWK angebotenen E-Roller nur in einem relativ kleinen, zentralen Teil des Krefelder Stadtgebietes zur Verfügung steht.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/916#comment-916
+15023	Kmob24	5	Sharing Angebote für Pkw sollten ausgebaut und mit einheitlichen Bedingungen und einer zentralen Reservierungsmöglichkeit {z.B. per App) nutzbar sein.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/916#comment-916
+15024	Kmob24	6	Da der motorisierte Induvidualverkehr nicht komplett durch ÖPNV-Angebote ersetzt werden soll und kann, muss auf anderen Wegen versucht werden zumindest die Anzahl der Pkw auf lange Sicht zu reduzieren.	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/comment/916#comment-916
+15025	Kmob24	7	Jeder, der statt eines eigenen Pkw auf Sharing Angebote zurückgreift, leistet hierzu einen wertvollen Beitrag.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/916#comment-916
+15026	Kmob25	1	Der zweite Absatz sagt schon alles...	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15027	Kmob25	2	Wie hier bereits schon jemand schrieb, die Stigmatisierung der Autofahrer ist gerade sehr angesagt!	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15028	Kmob25	3	Mainstream halt....	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15029	Kmob25	4	Nicht selten kreuzen Radfahrer die Straßen wie sie gerade Lust drauf haben.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15030	Kmob25	5	Die Fahrtrichtung ist egal, da sowieso der Autofahrer mindestens eine Teilschuld kriegt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15031	Kmob25	6	Ohne das achtsame fahren der Autofahrer, wäre die Anzahle der Verkehrsunfälle um ein vielfaches höher.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15032	Kmob25	7	Über die Luftreinheit sollten Sie sich in klaren sein, dass Krefeld eine Industriestadt ist, mit entsprechenden Werken.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15033	Kmob25	8	"Filter laufen so wie sie sollen, nur wenn ""Besuch"" angesagt ist, Schmutzige Anlagen nicht.... wenn der ""Besuch"" weg ist, wird weiter produziert mit geöffneten Toren... den Rest, atmet die Belegschaft weg!"	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15034	Kmob25	9	Insbesondere für die älteren unserer Gesellschaft sollte ein kostenloser ÖPNV in Erwägung gezogen werden, an Wochenenden für jedermann.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15035	Kmob25	10	Damit ließe sich der Verkehr spürbar reduzieren, aber wer solls bezahlen?	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/917#comment-917
+15036	Kmob26	1	Nur umfassende Konzepte verhindern gravierende Schäden	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15037	Kmob26	2	Ich hab große Sorge, dass unser Bereich Heinrich-Malina, Bischofstr. und Hauptstr. nach den angekündigten Straßensperrungen von Glindholzstr. bzw. Maybachstr. ganz zusammenbricht.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15038	Kmob26	3	Die Buddestr. als dann Hauotschlagader hat nämlich in der Folge ein weiteres Problemgebiet, das noch nicht zur Sprache kam.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15039	Kmob26	4	Bei uns kommen unendlich viele LKW vorbei jeden Tag.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15040	Kmob26	5	Der Stau reicht jetzt schon auf der Heinrich-Malina-Str. bis zur Unterführung nach Linn manchmal.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15041	Kmob26	6	Wir werden irgendwann durch die Heinrich-Klausmann Siedlung fahren, wenn bei uns alles dicht ist und wir für 300 m 15 Minuten brauchen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15042	Kmob26	7	Und dann haben wir ein weiteres Problem.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15043	Kmob26	8	Also ohne Gesamtkonzept, auch im Hinblick auf Neubau Rheinbrücke, ist die Sperrung von Straßen derzeit keine Option.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15044	Kmob26	9	Auch die selbstbewusste Haltung einer Partei, das einfach mal ohne Anhörung von Bürgern und anderen politisch agierenden Menschen nach Gutdünken aus dem Handgelenk zu entscheiden, ist bestenfalls verantwortungslos.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15045	Kmob26	10	Eine Verkehrszählung Lastkraftverkehr Heinrich-Malina-Str. wäre schon jetzt dringend erforderlich.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15046	Kmob26	11	Die Straße hat bereits massiv Schaden vor dem Kreuzungsbereich Hauptstraße genommen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15047	Kmob26	12	Warum reden nicht alle Fraktionen vorher miteinander, anstatt einfach unüberlegt Straßen sperren zu wollen?	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/928#comment-928
+15048	Kmob27	1	Pendler	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15049	Kmob27	2	Bin Aussendienstler mit tägl. wechselnden Zielen, ÖPNV nicht mögl.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15050	Kmob27	3	Häufig aus Hüls Richtung MG unterwegs.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15051	Kmob27	4	Es fehlt eine Umgehungsstraße zw. Krefeld und St. Tönis zur A44 (B9n).	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15052	Kmob27	5	Sagenhaft die Staus, Umgehung über Anrath oder Heideckstr. nicht sinnvoller.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15053	Kmob27	6	Fichtenhein soll wachsen, Prima.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15054	Kmob27	7	Aber dann sind noch mehr Pendler unterwegs, und dann?	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15055	Kmob27	8	Wie gesagt, bin viel unterwegs und sehe neue Umgehungsstraßen überall.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15056	Kmob27	9	Der Blick nach Kempen reicht schon als Vergleich.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15057	Kmob27	10	Da muss keiner mehr quer durch die Stadt.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15058	Kmob27	11	Hier fehlt mir eine planerische Perspektive für Pendler in unserer flexiblen Gesellschaft und der Entlastung der innenstädtischen Gebiete	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15059	Kmob27	12	Der Stop an go Verkehr am morgen ist bestimmt auch nicht emissionsverhindender.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/952#comment-952
+15060	Kmob28	1	Geschwindigkeitskontrollen verstärken	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/960#comment-960
+15061	Kmob28	2	Das Raderfeld in Fischeln ist eine Anlieger 30-Zone.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/960#comment-960
+15062	Kmob28	3	Die PKW aus NE und DU fliegen hier über die Straße und nutzen das Raderfeld als Abkürzung, weil es über die Kölner Straße länger dauert.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/960#comment-960
+15063	Kmob28	4	Eine an das Ordnungsamt gerichtetet Bitte, hier und nicht immer nur auf der Wilhelmstraße zur gleichen Zeit am gleichen Ort Geschwindigkeitskontrollen durchzuführen war erfolglos.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/960#comment-960
+15064	Kmob28	5	Ich bekam sogar einen Auftrag selber die Fahreuge zu zählen und dem Ordnungsamt zu melden.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/960#comment-960
+15065	Kmob28	6	Dieser viele und laute Verkehr macht eine krank!	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/960#comment-960
+15066	Kmob29	1	Abbiegespur zur Oberschlesienstraße	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/975#comment-975
+15067	Kmob29	2	Hallo zusammen	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/975#comment-975
+15068	Kmob29	3	Die Abbiegespur zur Oberschlesienstraße wird jeden morgen soweit zugefahren das eine Durchfahrt vom Obergart nur einspurig, rechts möglich ist.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/975#comment-975
+15069	Kmob29	4	Zum Teil stehen auch die SWK Busse in zweiter Reihe um sich Richtung Oberschlesienstraße einzuordnen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/975#comment-975
+15070	Kmob29	5	Das ist eine sehr gefährliche Situation und das jeden Morgen	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/975#comment-975
+15071	Kmob3	1	Ausbau von neuen Siedlungsgebieten nur noch Autofrei	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/957#comment-957
+15072	Kmob3	2	Die Gebiete in Fischeln sollten sich an dem Projekt autofreie Siedlung in Köln orientieren.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/957#comment-957
+15073	Kmob3	3	Dabei sollten auch die bekannnten Forschungsergebnisse herangezogen werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/957#comment-957
+15074	Kmob3	4	Von der Goethe Uni hat Herr Andreas Blechschmidt ein Foorschungsergebnis veröffentlicht : Wohnen ohne Auto – Nischenkonzept oder Zukunftsmodell für nachhaltige Stadtentwicklung?	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/957#comment-957
+15075	Kmob3	5	Planungen und Umsetzungen autofreier bzw. autoreduzierter Stadtentwicklungsprojekte im Vergleich	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/957#comment-957
+15128	Kmob4	1	Sicherheit im Straßenverkehr/Verwaltungskommunikation	non-arg	title	MC_K	https://www.krefeld-bewegen.de/comment/969#comment-969
+15129	Kmob4	2	Neben der Ahndung von Verstößen (Parken auf Radwegen/Geschwindigkeitsverstöße auf Fahrradstraßen etc.) sollte der Vorbeugung mehr Raum gewidmet werden z.B. durch Rotlichtüberwachung (Beispiel: nach Umschalten auf Rotlicht passieren regelmäßig 3 - 4 PKW die Kreuzung St. Töniser Str./Ring).	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/969#comment-969
+15130	Kmob4	3	Baustellenmanagement: Regelmäßig blockieren Verkehrschilder (z.B. Halteverbotsschilder) die Radwege und nicht die Straßenränder.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/969#comment-969
+15131	Kmob4	4	Verwaltungskommunikation: Selten Feedback der Verwaltung auf schriftliche Hinweise/Anzeigen/Nachfragen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/969#comment-969
+15132	Kmob4	5	"Eher ""Abwimmeln"" als sachkundige Antworten."	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/969#comment-969
+15133	Kmob4	6	Kommunikationskultur der städtischen Ämter ist unbedingt zu verbessern!	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/969#comment-969
+15212	Kmob5	1	Konsequent Tempo 30 auf allen Straßen	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/980#comment-980
+15213	Kmob5	2	Schluss mit dem Flickenteppich der unterschiedlichen Geschwindigkeitsregelungen und einheitlich Tempo 30 auf allen Fischelner Str..	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/980#comment-980
+15214	Kmob5	3	Dann wissen alle Verkehrsteilnehmer immer woran sie sind und keine(r) kann sich mehr rausreden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/980#comment-980
+15215	Kmob5	4	Der Verkehr fließt gleichmäßiger und damit voraussichtlich weniger Staus und weniger Schadstoffausstoß und weniger Lärm, der Verkehr wird sicherer, weil bei 20km/h weniger der Aufprall um ein Mehrfaches geringer wird, und weil die Einschätzung der Geschwindigkeit des Anderen einfacher/besser wird, weniger Schätzfehler mit fataler Wirkung vorkommen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/980#comment-980
+15270	Kmob6	1	ÖPNV umfassend neu strukturieren, nicht nur partiell betrachten	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15271	Kmob6	2	Parallel zur Planung für die neuen Baugebiete Fischeln Süd-West, Plankerheide, Interkommunales Gewerbegebiet A44 usw. ist das ÖPNV-Netz für Fischeln systematisch, d.h. in Gesamtbetrachtung, und nicht nur jeweils punktuell zu betrachten, als Ganzes neu auszurichten und in großer Linie zu ergänzen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15272	Kmob6	3	Ein sinnvoller Ansatz wäre es, die Linie 042(endet bislang vor Outokompou) als Schleife nach Fischeln zum Verkehrsverknüpfungspunkt Grundend weiter zu führen.	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15273	Kmob6	4	Damit könnte  das  wachsende aber  bislang unterversorgte/schlecht versorgte Gewerbegebiet Europark Fichtenhain, Fischeln Süd-West und Interkommunales Gewerbegebiet A 44 in einem Zuge vernünftig bedient werden.	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15274	Kmob6	5	Die SWK-mobil ist ja eine Tochtergesellschaft im Eigentum der Stadt und müsste in diesem Sinne von Rat und Verwaltung über die einschlägigen Aufsichtsgremien entsprechend beauftragt werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15275	Kmob6	6	Es kann doch nicht sein, dass es für Fischeln Süd-West und auch das Interkommunale noch keine diesbezüglichen Vorgaben gibt.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15276	Kmob6	7	Städtebauliche Planung und ÖPNV müssen überall von Beginn an synchron und abgestimmt arbeiten und nicht zeitversetzt.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15277	Kmob6	8	ÖPNV braucht in und für neue Siedlungseinheiten vernünftige Trassen und Verknüpfungspunkte, das muss doch zusammen gedacht werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15278	Kmob6	9	Da sitzen doch jeweils Planer mit der gleichen Ausbildung, die müssen doch gut miteinander klarkommen, zumal wenn sie klare Vorgaben bekommen.	non-arg	text	MC_K	https://www.krefeld-bewegen.de/comment/981#comment-981
+15343	Kmob7	1	ÖPNV vereinfachen	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/1034#comment-1034
+15344	Kmob7	2	Vielleicht kann Krefeld neben anderen Städten in der Region daran mitarbeiten, dass der ÖPNV vereinfacht wird.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1034#comment-1034
+15345	Kmob7	3	Das aktuelle Tarifsystem ist viel zu unübersichtlich.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1034#comment-1034
+15346	Kmob7	4	Und bitte keine Online-Tickets, die einen dazu zwingen sich ein Smartphone anzuschaffen, wenn man eine günstige Fahrkarte kaufen will, das ist weder niederschwellig noch inclusiv.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1034#comment-1034
+15347	Kmob7	5	Mehr Möglichkeiten zur Fahrradmitnahme schaffen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1034#comment-1034
+15348	Kmob7	6	Im Bahnhofsumfeld Abstellmöglichkeiten für Fahrräder schaffen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1034#comment-1034
+15349	Kmob7	7	Fahrradmitnahme im ÖPNV kostenlos.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1034#comment-1034
+15408	Kmob8	1	Verbesserung der (schnellen) SPNV-Anbindung an das Ruhrgebiet	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15409	Kmob8	2	Meiner Empfindung nach sollte die RE-Anbindung an das Ruhrgebiet ausgehend von Krefeld HBF verbessert werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15410	Kmob8	3	Wenn nicht gerade der RE10 Umleitungen fährt, bietet im Regelverkehr nur der RE42 die Möglichkeit,  Duisburg HBF schnell zu erreichen.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15411	Kmob8	4	Er verkehrt lediglich einmal die Stunde.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15412	Kmob8	5	RB33 und RB35 leisten mit der Anbindung der kleineren Haltestelle einen wichtigen Beitrag, von Krefeld HBF ist die Fahrtzeit dadurch aber natürlich verlängert.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15413	Kmob8	6	Attraktivitätssteigernd sind IMO aber vor allem kurze Fahrtzeiten zwischen den größten Stationen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15414	Kmob8	7	Mein Plädoyer wäre also für eine zweite, schnelle RE-Verbindung zwischen Krefeld HBF und dem Ruhrgebiet.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15415	Kmob8	8	Zumal sich die Anbindung aktuell durch die RRX-bedingte Umstellung sogar verschlechtert hat.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15416	Kmob8	9	Vorher fuhr der RE11 bis nach Dortmund und weiter, der RE42 biegt nun ab Essen nach Norden ab.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15417	Kmob8	10	Im Rahmen des RRX-Projekts mag dies durchaus sinnvoll sein, da die Stammstrecke zwischen Düsseldorf und Dortmund nun häufiger direkt bedient wird.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15418	Kmob8	11	Die Anbindung von Krefeld ans Ruhrgebiet ist dadurch allerdings unattraktiver geworden - zumindest für alle, die über Essen hinaus fahren möchten.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15419	Kmob8	12	Sicherlich kann die Stadt Krefeld eine solche Entscheidung nicht alleine treffen, ich würde mir jedoch wünschen, dass sie sich für eine bessere SPNV-Verbindung einsetzt.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15420	Kmob8	13	"Praktische Anregung (ohne die Umsetzbarkeit im Detail bewerten zu können): Die laut Konzept angedachte Verbindung nach Duisburg per S-Bahn kann vielleicht eine der beiden RB-Verbindungen ersetzen, das ""freiwerdende"" DB-Personal und -Material dann als Grundlage für eine neue, schnelle RE-Verbindung dienen."	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1073#comment-1073
+15554	Kmob9	1	Pilotprojekte Strassenverkehrsberuhigung in Krefeld	mpos	title	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15555	Kmob9	2	Auf Grund der klimatisch bedingten in Zukunft zu erwartenden Bedingungen und auf Grund des stark ansteigenden Verkehrsaufkommens mit belastenden Lebensbedingungen sind in Krefeld Pilotprojekte zu starten.	mpos+premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15556	Kmob9	3	Im Zentrum startet das Projekt: Verkehrsberuhigung im Geschäftsviertel.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15557	Kmob9	4	Es wird gesunder Freizeitgestaltung für Jung und Alt Raum geboten, Sitzgelegenheiten an der frischen Luft und gleichzeitig mit viel Grün wird der Handel beim Spazierengehen angeregt und eine Alternative zum Internet geschaffen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15558	Kmob9	5	Auch die Viertel werden verkehrsberuhigt, netzartige Verbindungen zwischen den Vierteln bleiben zunächst bestehen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15559	Kmob9	6	Hier soll Öffentlicher Strassenverkehr eingesetzt werden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15560	Kmob9	7	Auf den bestehenden Straßen wird der Autoverkehr zunehmend verlangsamt und abgebaut.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15561	Kmob9	8	Parkplätze werden am Stadtrand geschaffen mit guten Anbindungsmöglichkeiten und Fahrradverlei.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15562	Kmob9	9	Auf den verbleibenden Wegen ist Fahrradverkehr und Fussgängerverkehr möglich und haben Vorrang.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15563	Kmob9	10	Lieferverkehr mit umweltfreundlichen Fahrzeugen ist ebenfalls möglich.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15564	Kmob9	11	So kann es auch Lieferdienste für alte und kranke Menschen geben, sowie spezielle, umweltfreundliche Fahrzeuge für diesen Personenkreis.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15565	Kmob9	12	"Überall gibt es viel Grün, das die Gesundheit der Menschen und die Artenvielfalt fördert, also den ""Wald in die Stadt"" holen und auch""die essbare Stadt"" verwirklichen, an dem jeder Bürger teilhaben kann."	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15566	Kmob9	13	Dach- und Wandbegrünung bilden die natürlichen Dämmungsmethoden, die auf gefährliche Materialien verzichten.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15567	Kmob9	14	Dies insgesamt ist unumgänglich und es wird zu einer finanziell und sozial attraktiven, gesunden und klimafreundlichen Lebensgestaltung führen.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15568	Kmob9	15	Kinder können auf der Strasse spielen, was die Familien entlastet, alte Menschen müssen keine Angst vor dem Strassenverkehr haben, auch die Lärmbelästigung und Abgase und Feinstaub sind derzeitig zu einer erheblichen Belastung geworden.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15569	Kmob9	16	Die insgesamt unschöne Umgebung hat zum Rückzug in die hauseigenen vier Wände geführt, was niemandem nutzt.	premise	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075
+15570	Kmob9	17	Diese Maßnahmen führen zu einer Öffnung der Gesellschaft, von der alle profitieren.	mpos	text	MC_K	https://www.krefeld-bewegen.de/comment/1075#comment-1075

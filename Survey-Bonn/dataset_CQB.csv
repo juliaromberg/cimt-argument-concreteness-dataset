@@ -1,0 +1,53 @@
+id,document_id,sentence_nr,content,code,title/text,dataset
+10534,Boff143_3,1,mangelnde Abstellflächen,premise,text,CQ_B
+10619,Boff174_3,1,Falschparker auf Radwegen härter bestrafen,mpos,text,CQ_B
+10677,Boff202_1,1,"Sau.. [?] Radwege, keine Autos der Polizei für Geschwindigk.-kontr. AUF Radwege, keine Glas-Behälter (Recycling) am Radweg, höhere Strafen/ [?] von Parkern auf Radweg",mpos+premise,text,CQ_B
+10683,Boff203_1,1,mehr Fahrradweg,mpos,text,CQ_B
+10737,Boff231_2,1,mehr Abstellplätze,mpos,text,CQ_B
+10779,Boff248_3,1,Fahrradständer der zum Anketten vor Bio-Märkten z.B. denns Köln Str.,mpos,text,CQ_B
+10916,Boff290_1,1,breitere Radwege von Innenstadt an der Bahntrasse Richtung BadGodesberg,mpos,text,CQ_B
+10922,Boff292_1,1,Kein Fahrradweg/ Platz vorhanden,premise,text,CQ_B
+10967,Boff310_1,1,"Baustelle Viktoriabrücke: Andere Möglichkeit, damit man bei der Fahrrichtung in Richtung Nordstadt nicht immer die Straßenseite wechseln muss",mpos+premise,text,CQ_B
+11029,Boff332_2,1,Park & Halteverbot auf Radwegen,mpos,text,CQ_B
+11043,Boff342_2,1,mehr Hinweißschilder für Autofahrer auf Radfahrer acht zu geben,mpos,text,CQ_B
+11067,Boff350_1,1,Verkehrsführung verbessern,mpos,text,CQ_B
+11083,Boff356_1,1,den Radweg am Rhein von Bonn-Mehlem bis zur Stadtgrenze nach Hersel verbreitern und voll ausbauen!,mpos,text,CQ_B
+11112,Boff367_1,1,neue Abstellanlagen schaffen,mpos,text,CQ_B
+11114,Boff367_3,1,in Rheinaue,non-arg,text,CQ_B
+11214,Boff421_1,1,"Mehr Möglichkeiten, Fahrräder zu fixieren",mpos,text,CQ_B
+11216,Boff421_3,1,"mehr Kontrolle von Radfahrern, die falsch sind/ oder ohne Licht fahren",mpos,text,CQ_B
+11302,Boff44_1,1,mehr Radständer,mpos,text,CQ_B
+11328,Boff460_1,1,Mehr klarerer ausgezeichnete Radwege,mpos,text,CQ_B
+11338,Boff462_3,1,Einbiegen auf Radweg Kaiserstraße von den Bahnübergängen sicherer machen (Hecken schneiden etc.),mpos,text,CQ_B
+11350,Boff467_2,1,Fahrräder sollten mehr begünstigt werden.,mpos,text,CQ_B
+11397,Boff485_2,1,Ausbessern von Schlaglöchern,mpos,text,CQ_B
+11424,Boff497_1,1,mehr Sicherheit für Radfahrer -> Autofahrer ignorieren den Fahrrad… [?],mpos+premise,text,CQ_B
+11479,Boff61_2,1,sichtbare Kennzeichnung von Radstraßen oder sogar komplette Sperrung von Straßen für Autos,mpos,text,CQ_B
+11584,Boff90_1,1,Straßenreparatungen gehen für eine lange Zeit auf der Victoria Brücke.,premise,text,CQ_B
+11585,Boff90_1,2,"Dort ist sehr eine sehr enge und schmale Straße und ist und sehr schwierig zu fahren, sonders Alten Menschen",premise,text,CQ_B
+11604,Bon1111_1,1,Der Streifen zwischen den Bahngleisen und Bürgersteig sollte verbreitert werden,mpos,text,CQ_B
+11605,Bon1123_1,1,Klare Trennung von Fahrrad- und Kfz- verkehr wie zB. in Münster,mpos,text,CQ_B
+11620,Bon1295_1,1,"Fahrradwege (alt, verwurzelt, holprig)",premise,text,CQ_B
+11621,Bon1295_2,1,Bürgersteig zum Fahrradweg umbauen,mpos,text,CQ_B
+11629,Bon1350_1,1,Klare Kennzeichnung Fahrradweg,mpos,text,CQ_B
+11630,Bon1350_2,1,Grds. durchgängige Beleuchtung,mpos,text,CQ_B
+11637,Bon1465_3,1,"Autofahrer erziehen (nicht bestrafen!) dass an Kreuzungen nicht immer rechts rüber gezogen wird u Radfahrer blockiert, ebenso für Autotür öffnen in Radweg",mpos+premise,text,CQ_B
+11661,Bon179_1,1,mehr Platz für Rad,mpos,text,CQ_B
+11662,Bon179_2,1,Mehr Sicherheit für Radfahrer,mpos,text,CQ_B
+11694,Bon22_3,1,"ggf. Beleuchtung des Bröhltalwegs, gerade im Winter ist es schon früh stockfinster",mpos+premise,text,CQ_B
+11695,Bon232_1,1,Radservice Stationen (aufpumpen etc.),mpos,text,CQ_B
+11696,Bon232_2,1,Überdachte Abstellplätze (Innenstadt),mpos,text,CQ_B
+11701,Bon23_1,1,Falsch parkenden Autos öffters kontrollieren,mpos,text,CQ_B
+11784,Bon340_1,1,Fehlende Beleuchtung,premise,text,CQ_B
+11785,Bon340_2,1,Radweg teilt sich - gefährliche Verkehrsführung,premise,text,CQ_B
+11851,Bon441_2,1,Radweg vom Hauptbahnhof Richtung Rhein,mpos,text,CQ_B
+11854,Bon452_1,1,Ausbau des Radfahrwegs,mpos,text,CQ_B
+11902,Bon543_1,1,mehr Radwege,mpos,text,CQ_B
+11903,Bon543_2,1,breitere Radwege,mpos,text,CQ_B
+11911,Bon649_3,1,Häufigere und bessere Kontrollen von Falschparkern und stark befahrenen Kreuzungen,mpos,text,CQ_B
+11912,Bon663_1,1,seperate Wege an großen Kreuzungen,mpos,text,CQ_B
+11920,Bon743_2,1,deutlich gekennzeichnete Fahrradwege,mpos,text,CQ_B
+11929,Bon789_2,1,'Ampeln auch Nachts für Radfahrer und Fußgänger durchgängig mit Ampeln für Autos grün schalten,mpos,text,CQ_B
+11930,Bon789_3,1,"es kann nicht sein, dass die Autos in der eigenen Fahrtrichtung grün haben und man selber abends um 23 Uhr an der Ampel zwei Phasen abwarten muss...'",premise,text,CQ_B
+11938,Bon875_1,1,"Weniger Fahrradstreifen, dafür ganze Fahrbahnnutzung für Radfahrer",mpos,text,CQ_B
+11939,Bon875_2,1,Radstreifen kollidieren mit Bushaltestellen,premise,text,CQ_B
