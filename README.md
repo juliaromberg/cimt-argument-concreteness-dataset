@@ -14,6 +14,8 @@ Content
 
 Each of the folders (one per public participation process) contains the coded dataset and the corresponding terms of use.
 
+<br>
+
 The "concreteness"-csv-files contain one entry per unit with the following information.
 
 unit_id: unique unit id
@@ -28,6 +30,7 @@ dataset: name of the dataset
 
 document_id: document id
 
+<br>
 
 The "dataset"-csv-files contain one entry per unit with the following information.
 
